@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 /**
  * The type Application commons application.
  */
-@SpringBootApplication
 @EnableAutoConfiguration(exclude = {DataSourceAutoConfiguration.class})
+@SpringBootApplication
 public class ApplicationCommonsApplication {
 
 }
