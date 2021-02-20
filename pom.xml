@@ -13,7 +13,7 @@
 	<groupId>com.lamn.microservices</groupId>
 	<artifactId>app-commons</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>Application Commons</name>
+	<name>AppCommons</name>
 	<description>Used to implement the common classes in the projects</description>
 
 	<properties>
